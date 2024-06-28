@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "10th anniversary of our global developer event on AI, DevEx, and security",
+        "linkText": "Learn More"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post.",
+        "title": "Yay: Empowering Innovation Through Knowledge"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Empowering Innovation Through Knowledge",
+  "subtitle": "Join a community of tech enthusiasts, elevate your skills, and inspire the future with every post."
+}
